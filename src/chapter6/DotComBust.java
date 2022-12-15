@@ -3,7 +3,7 @@ package chapter6;
 import java.util.ArrayList;
 
 public class DotComBust {
-    private GameHelper helper = GameHelper();
+    private GameHelper helper = new GameHelper();
     private ArrayList<DotCom> dotComList = new ArrayList<DotCom>();
     private int numOfGuesses = 0;
     
