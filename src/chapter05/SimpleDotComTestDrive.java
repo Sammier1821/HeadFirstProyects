@@ -1,4 +1,4 @@
-package chapter5;
+package chapter05;
 
 public class SimpleDotComTestDrive {
     public static void main(String[] args) {
